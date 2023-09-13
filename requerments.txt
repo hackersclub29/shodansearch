@@ -1,1 +1,4 @@
-
+pip3 install base64
+pip3 install Fernet 
+pip3 install shodan
+pip3 install sys
